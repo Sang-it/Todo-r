@@ -1,4 +1,4 @@
-# todo'r
+# Todo'r
 
 Just a todo app.
 
